@@ -1,0 +1,12 @@
+{
+  "name": "MeshWave",
+  "short_name": "MeshWave",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#05070a",
+  "theme_color": "#0df2c9",
+  "description": "Offline LoRa and BLE mesh communication.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}

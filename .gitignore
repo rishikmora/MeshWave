@@ -1,0 +1,17 @@
+.dart_tool/
+.idea/
+.vscode/
+build/
+coverage/
+*.iml
+*.log
+*.zip
+apps/mobile/.flutter-plugins
+apps/mobile/.flutter-plugins-dependencies
+apps/mobile/pubspec.lock
+firmware/esp32-lora/.pio/
+backend/supabase/.branches/
+backend/supabase/.temp/
+*.env
+.env.*
+!.env.example

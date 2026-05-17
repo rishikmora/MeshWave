@@ -1,0 +1,17 @@
+{
+  "folders": [
+    { "path": "apps/mobile" },
+    { "path": "firmware/esp32-lora" },
+    { "path": "backend/supabase" },
+    { "path": "docs" }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "dart.lineLength": 100,
+    "files.exclude": {
+      "**/.dart_tool": true,
+      "**/.pio": true,
+      "**/build": true
+    }
+  }
+}
